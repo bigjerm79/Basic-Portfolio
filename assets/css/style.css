@@ -61,13 +61,13 @@ h1 {
 
 #aboutm {
   border: 1px black;
-  width: 60%;
+  width: 50%;
   height: 300px;
   box-sizing: border-box;
 }
 
 #connect {
-  width: 30%;
+  width: 50%;
   float: right;
 }
  h2 {
