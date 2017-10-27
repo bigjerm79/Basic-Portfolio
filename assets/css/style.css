@@ -28,7 +28,7 @@
 
 #buttons{
   position: fixed;
-  right: 15%;
+  right: 25%;
 }
 
 #about {
@@ -48,14 +48,17 @@
 
 #content  {
   width: 960px;
+  height: 400px;
   margin: 0 auto;
-  background: #bebebe;
+  background: #f0f0f0;
+  display: table;
   }
 
 
 h1 {
   color: #4aaaa5;
 }
+
 #me {
   float: left;
 }
@@ -66,7 +69,9 @@ h1 {
   height: 350px;
   display: table-row;
   float: left;
-  border: 1px gray;
+  
+ 
+
 }
 
 #connect {
@@ -85,13 +90,13 @@ h1 {
 footer {
   background: #666666;
   padding: 30px 0;
-  margin: 0;
+  margin: 0 auto;
   margin-bottom: 20px;
   font-size: 28px;
   color: #777777;
   text-align: center;
   border-top: 5px solid #4aaaa5 ;
-  width: 100%;
+  width: 960px;
   clear: both;
    }   
 
