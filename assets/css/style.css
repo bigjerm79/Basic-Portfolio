@@ -6,7 +6,7 @@
 #fixedname {
 	position: fixed;
     top: 10px;
-    left:15%;
+    left:20%;
     padding: 30px;
     margin: 0;
     text-align: center;
@@ -44,12 +44,13 @@
   color: #777777;
   }      
 
-#content  {padding: 20px;
-  margin-bottom: 20px;
-  color: black;
-  background: #eee;
-  
-}
+
+
+#content  {
+  width: 960px;
+  margin: 0 auto;
+  background: #bebebe;
+  }
 
 
 h1 {
@@ -61,18 +62,20 @@ h1 {
 
 #aboutme {
   
-  width: 50%;
-  height: 300px;
+  width: 650px;
+  height: 350px;
   display: table-row;
   float: left;
+  border: 1px gray;
 }
 
 #connect {
-  width: 50%;
-  height: 300px;
+  width: 270px;
+  height: 100px;
   float: right;
+  
   display: table-row;
-}
+
 }
  
  h2 {
