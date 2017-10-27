@@ -59,17 +59,22 @@ h1 {
   float: left;
 }
 
-#aboutm {
-  border: 1px black;
+#aboutme {
+  
   width: 50%;
   height: 300px;
-  box-sizing: border-box;
+  display: table-row;
+  float: left;
 }
 
 #connect {
   width: 50%;
+  height: 300px;
   float: right;
+  display: table-row;
 }
+}
+ 
  h2 {
   color: #4aaaa5;
 }
