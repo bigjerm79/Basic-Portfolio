@@ -1,0 +1,89 @@
+*{
+	box-sizing: border-box;
+	text-align: center;
+}
+
+#fixedname {
+	position: fixed;
+    top: 10px;
+    left:15%;
+    padding: 30px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    background: #4aaaa5;
+    font-weight: bold;
+
+    }
+
+ header {
+  background: white;
+  padding: 30px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #eee;
+  text-align: center;
+   }   
+
+#buttons{
+  position: fixed;
+  right: 15%;
+}
+
+#about {
+  text-decoration: none;
+  color: #777777;
+  }
+#contact {
+  text-decoration: none;
+  color: #777777;
+  }
+#portfolio {
+  text-decoration: none;
+  color: #777777;
+  }      
+
+#content  {padding: 20px;
+  margin-bottom: 20px;
+  color: black;
+  background: #eee;
+  
+}
+
+
+h1 {
+  color: #4aaaa5;
+}
+#me {
+  float: left;
+}
+
+#aboutm {
+  border: 1px black;
+  width: 60%;
+  height: 300px;
+  box-sizing: border-box;
+}
+
+#connect {
+  width: 30%;
+  float: right;
+}
+ h2 {
+  color: #4aaaa5;
+}
+
+footer {
+  background: #666666;
+  padding: 30px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #777777;
+  text-align: center;
+  border-top: 5px solid #4aaaa5 ;
+  width: 100%;
+  clear: both;
+   }   
+
